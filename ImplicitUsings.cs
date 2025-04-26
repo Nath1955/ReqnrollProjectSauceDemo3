@@ -1,0 +1,10 @@
+global using Microsoft.Extensions.Configuration;
+global using NUnit.Framework;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Chrome;
+global using Reqnroll;
+global using Reqnroll.BoDi;
+global using ReqnrollProjectSauceDemo3.Drivers;
+global using ReqnrollProjectSauceDemo3.Pages;
+global using ReqnrollProjectSauceDemo3.Support;
+global using NUnit.Framework.Legacy;
